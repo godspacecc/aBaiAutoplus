@@ -242,7 +242,7 @@ npm run dev
 
 桌面客户端基于 Electron 打包，内置完整的 Python 后端 + React 前端，开箱即用。每次发布新版本（`v*` tag）会自动构建并发布到 Releases。
 
-如需源码运行或自行打包，参考上方 [快速开始](#快速开始) 与 `electron/` 目录。
+如需源码运行或自行打包，参考上方 [快速开始](#快速开始)、`electron/` 目录与 [Windows EXE 打包说明](WINDOWS_EXE_PACKAGING.md)。
 
 ## Docker 部署
 
